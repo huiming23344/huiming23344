@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Huiming, a Gopher seeking opportunities to apply my skills in the industry.
+
+- 🎓 Bachelor of Software Engineering, Wuhan University, Expected Graduation: 2025
+- 🌱 I’m currently learning Golang, Docker, Kubernetes
+- 💬 communicate with me in Chinese or English
+- 📫 reach me at lgm05251@outlook.com
+
+## 📈 my stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiming23344&show_icons=true&count_private=true&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiming23344&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
