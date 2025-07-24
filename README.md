@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Huiming, a Gopher seeking opportunities to apply my skills in the industry.
+I’m Huiming, working in Baidu.Inc.
 
 - 🎓 Bachelor of Software Engineering, Wuhan University, Expected Graduation: 2025
 - 🌱 I’m currently learning Golang, Docker, Kubernetes
