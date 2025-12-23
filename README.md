@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 I'm Huiming, a backend and cloud infrastructure engineer at Baidu.
+I'm Huiming, a backend and cloud infrastructure engineer at Baidu.
 
 - 🎓 B.E. in Software Engineering, Wuhan University (2025)
 - 🔭 Working on **cloud infrastructure systems** built with **Golang and Python**
